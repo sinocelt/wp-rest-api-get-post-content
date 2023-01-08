@@ -1,4 +1,4 @@
-This repository accompanies a YouTube video called
+This repository accompanies a YouTube video called<br/>
  How To Get The Text Content Of A WordPress Blog Post With The WP REST API 
  https://www.youtube.com/watch?v=ZBD8jCgs8pw
  
